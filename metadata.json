@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Script Assistant",
+  "description": "An intelligent YouTube script generator that structures hooks, content, and visual cues using Gemini AI.",
+  "requestFramePermissions": []
+}
